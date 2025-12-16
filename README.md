@@ -1,5 +1,6 @@
 # 🪄 Hi 👋, I'm Rupam Kumari
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="border-radius: 20px;">
+<p>
 Email Me 👉 ✉️ **rkumari.info1234@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** college project
@@ -7,8 +8,7 @@ Email Me 👉 ✉️ **rkumari.info1234@gmail.com** For Collaboration/Project or
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rkumari.info1234@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-<img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Image" width="300">
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Black-Magic-dark) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkumari.info1234@gmail.com) 
