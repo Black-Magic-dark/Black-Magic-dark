@@ -1,4 +1,12 @@
+# 🪄 Hi 👋, I'm Rupam Kumari
 
+Email Me 👉 ✉️ **rkumari.info1234@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** college project
+- 🌱 **I’m currently learning:** streamlit
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** rkumari.info1234@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Black-Magic-dark) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkumari.info1234@gmail.com) 
 
